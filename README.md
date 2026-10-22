@@ -7,16 +7,11 @@
 <img src="https://imgur.com/nryvGT3.jpeg">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💫 About Me:
-- 📊 Data Science Student
-- 💻 Junior Software Developer
-- 📷 Photography and photo editing
-- 🤖 Artificial Intelligence and Machine Learning
-- 🌱 Learning about Full Stack Web Developer
-- 📘 I would like to learn about Cybersecurity and Networking
+# 🌐 Connect with Me
+[<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&theme=dark&animation=glow" width="40"/>](https://www.linkedin.com/in/danitzdev/)
+[<img src="https://www.readmecodegen.com/api/social-icon?name=facebook&theme=dark&animation=glow" alt="facebook" width="40"/>](https://www.facebook.com/Kerboreus?locale=es_LA)
+[<img src="https://www.readmecodegen.com/api/social-icon?name=instagram&theme=dark&animation=glow" width="40"/>](https://www.instagram.com/danls.tsx/)
+[<img src="https://www.readmecodegen.com/api/social-icon?name=youtube&theme=dark&animation=glow" alt="youtube" width="40"/>](https://www.youtube.com/@DanitzDev)
 
-# Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,azure,react,git,androidstudio,nextjs,notion,py,pytorch,sqlite,tailwind,tensorflow,ts,vite,pandas,NumPy)](https://skillicons.dev)<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
+# 💻 Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,postgres,azure,react,git,github,androidstudio,nextjs,notion,py,pytorch,fastapi,sqlite,tailwind,tensorflow,ts,vite,mongodb,ps,pr,ae,ai)](https://skillicons.dev)
