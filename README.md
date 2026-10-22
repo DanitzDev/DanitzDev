@@ -16,4 +16,4 @@
 - 📘 I would like to learn about Cybersecurity and Networking
 
 # Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,azure,react,git,androidstudio,nextjs,notion,py,pytorch,sqlite,tailwind,tensorflow,ts,vite)](https://skillicons.dev)
