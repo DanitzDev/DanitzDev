@@ -16,7 +16,7 @@
 - 📘 I would like to learn about Cybersecurity and Networking
 
 # Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,azure,react,git,androidstudio,nextjs,notion,py,pytorch,sqlite,tailwind,tensorflow,ts,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,azure,react,git,androidstudio,nextjs,notion,py,pytorch,sqlite,tailwind,tensorflow,ts,vite,pandas,NumPy)](https://skillicons.dev)
 <div >
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wildfly.png" alt="WildFly" title="WildFly"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
